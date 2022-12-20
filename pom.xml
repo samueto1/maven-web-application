@@ -108,7 +108,7 @@
 	</distributionManagement>
 	
 	<build>
-		<finalName>second-web-app</finalName>
+		<finalName>maven-web-app</finalName>
 		
 		<plugins>
 			<plugin>
